@@ -3,7 +3,7 @@ from langchain import OpenAI
 import sys
 import os
 from llama_index import ServiceContext,StorageContext,load_index_from_storage
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "#################################33"
 
 from flask import Flask, render_template,request,jsonify
 
