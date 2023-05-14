@@ -1,0 +1,56 @@
+How to connect Iot bridge with WeatherStation/DHT11?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of DHT11 will connect to the C010 of  IoT bridge"
+
+How to connect Iot bridge with Soil moisture?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of Soil moisture will connect to the C07 of the IoT bridge"
+
+How to connect Iot bridge with LDR Proximity?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is LDR1 And LDR2 of LDR will connect to the C07of the IoT bridge, LDR_LED_PIN of LDR will connect to the C06 of the IoT bridge"
+
+How to connect Iot bridge with Motors?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connections are MOTOR DRIVER C01 will connect to the C05 of the IoT bridge, C02 will connect to the C06 of the IoT bridge,C03 will connect to the C04 of the IoT bridge"
+
+How to connect Iot bridge with OLED Display?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of OLED display will connect to the C01 of the IoT bridge"
+
+How to connect Iot bridge with Gas sensor?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of gas sensor  will connect to the C07 of the IoT bridge"
+
+How to connect Iot bridge with Reed Switch?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of reed switch will connect to the C09 of the IoT bridge"
+
+How to connect Iot bridge with Accelerometer V2?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of the accelerometer will connect to the C010 of the IoT bridge"
+
+How to connect Iot bridge with Wheel encoder?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of the Wheel encoder will connect to the C012 of the IoT bridge"
+
+How to connect Iot bridge with IR remote sensor?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of the IR remote sensor will connect to the C01 of the IoT bridge"
+
+How to connect Iot bridge with Smart switch?
+"Connect power connector to  the power pin PC12
+and  data connection is C01 the of  smart switch will connect to the  C012 of the IoT bridge"
+
+How to connect Iot bridge with Dip switch?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is DIP C01  of  Dip switch will connect to the C10  of the IoT bridge, DIP C02 of  Dip switch will connect to the  C09  of the IoT bridge"
+
+How to connect Iot bridge with MP3 player?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is MP3 player C01 will conneted to the C03 of IoT bridge"
+
+How to connect Iot bridge with Accelerometer V1?
+"Connect power connector(red and black connector) to any of the power pin(PC1 to PC11)except PC12
+and  data connection is C01 of  Accelerometer will connect to the C07 of the IoT bridge,C02 of  Accelerometer will connect to the C010 of the IoT bridge"
+
